@@ -44,7 +44,7 @@ I’m a **Developer, CTO, and full-stack engineer** focused on building **scalab
 I enjoy turning complex business ideas into clean architecture, reliable backend systems, and developer-friendly platforms.
 
 ### Current Focus
-- Building **API Gateway solutions** for **Ethos Risk (US-based)**
+- Building **API Gateway solutions** 
 - Deepening expertise in **System Design** and **Software Architecture**
 - Working on **cloud-native workflows**, **DevOps automation**, and **security-first engineering**
 
