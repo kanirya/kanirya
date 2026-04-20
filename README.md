@@ -1,84 +1,126 @@
-![logo](https://github.com/kanirya/kanirya/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
-<h3 align="center">Developer & CTO |Expert in .NET and full-stack development. Passionate about building scalable SaaS solutions,security base system, and ERPs. Former CTO, experienced in leading tech projects and architecting efficient software solutions.</h3>
+<!-- Profile README for kanirya -->
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on Ethos Risk (US base) api gateway.
-
-- 🌱 I’m currently learning system design and Architecture
-
-- 📫 How to reach me **codewithartist1@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/kanirya/kanirya/blob/main/Resume.pdf](https://github.com/kanirya/kanirya/blob/main/Resume.pdf)
-
-- ⚡ Fun fact **I Think I am a bit serious.:)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61559494131336&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61559494131336&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/db_danishartist2/profilecard/?igsh=mwmzehnldnpimxllyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/db_danishartist2/profilecard/?igsh=mwmzehnldnpimxllyw==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/danish_kaneria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/danish_kaneria/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/kanirya/kanirya/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Muhammad Danish Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Muhammad Danish</h1>
 
-<p align="left"> 
-    <!-- ASP.NET Core -->
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="asp-net-core" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-
-   <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> 
-  </a> 
-
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
- 
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
-  </a> 
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Developer+%26+CTO;Full-Stack+.NET+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+SaaS%2C+Secure+Systems+%26+ERPs;Architecture+%7C+APIs+%7C+Automation+%7C+Leadership" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:codewithartist1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-codewithartist1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/kanirya">
+    <img src="https://img.shields.io/badge/GitHub-kanirya-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/danish_kaneria/">
+    <img src="https://img.shields.io/badge/LeetCode-danish__kaneria-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61559494131336&mibextid=zbwkwl">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/db_danishartist2/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanirya&show_icons=true&locale=en&layout=compact" alt="kanirya" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanirya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kanirya?label=Followers&style=for-the-badge&color=171515" alt="followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanirya&show_icons=true&locale=en" alt="kanirya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanirya&" alt="kanirya" /></p>
+## About Me
+
+<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+
+I’m a **Developer, CTO, and full-stack engineer** focused on building **scalable SaaS platforms, secure systems, enterprise APIs, and ERP solutions**.
+
+I enjoy turning complex business ideas into clean architecture, reliable backend systems, and developer-friendly platforms.
+
+### Current Focus
+- Building **API Gateway solutions** for **Ethos Risk (US-based)**
+- Deepening expertise in **System Design** and **Software Architecture**
+- Working on **cloud-native workflows**, **DevOps automation**, and **security-first engineering**
+
+### What I Bring
+- Strong hands-on experience with **.NET**, **C#**, **SQL Server**, and full-stack product development
+- Leadership experience as a **former CTO**
+- Practical delivery of **enterprise-grade systems**, **automation workflows**, and **business platforms**
+- Passion for performance, maintainability, and elegant engineering
+
+### Quick Facts
+- Location: Pakistan
+- Email: **codewithartist1@gmail.com**
+- Resume: [View Resume](https://github.com/kanirya/kanirya/blob/main/Resume.pdf)
+- Fun fact: **I may look serious, but I’m deeply obsessed with building cool things.**
+
+<br clear="right"/>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:codewithartist1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+  <a href="https://github.com/kanirya">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61559494131336&mibextid=zbwkwl">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" />
+  </a>
+  <a href="https://www.instagram.com/db_danishartist2/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="48" />
+  </a>
+  <a href="https://leetcode.com/u/danish_kaneria/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Backend & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,python,nodejs" />
+</p>
+
+### Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,dart" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalStack-1A1F36?style=for-the-badge&logo=localstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+</p>
+
+### Database & Platform Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,gcp" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## What I Work On
+
+```text
+Designing scalable APIs
+Building secure backend systems
+Architecting SaaS products
+Developing ERP platforms
+Automating cloud workflows
+Improving system performance
+Leading technical teams
